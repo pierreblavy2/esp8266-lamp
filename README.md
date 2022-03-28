@@ -14,4 +14,4 @@ The default access point ssid is <code>lamp</code>, the password is <code>magicw
 ![Website](https://raw.githubusercontent.com/pierreblavy2/esp8266-lamp/main/screenshots/website.png)
 
 # Thanks
-Thank a Lot to Syntax and Uru, who helped a lot for this project!
+Thank a lot to Syntax and Uru, who helped a lot for this project!
