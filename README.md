@@ -1,6 +1,6 @@
 # esp8266-lamp
 A wifi controllable RGB light, based on esp8266.
-The default access point ssid is <code>lamp</code>, the password is <code>magicword</code>, and the ip is <code>192.168.4.1</code> 
+The default access point ssid is <code>lamp</code>, the password is <code>magicword</code>, and the IP is <code>192.168.4.1</code>.
 
 # The project contains 
 - the PCB design (kicad and gerber) CC-BY-SA 3.0
