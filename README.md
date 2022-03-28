@@ -2,7 +2,7 @@
 A wifi controllable RGB light, based on esp8266.
 
 ![Lamp](https://raw.githubusercontent.com/pierreblavy2/esp8266-lamp/main/screenshots/lamp.jpg)
-![Website](https://raw.githubusercontent.com/pierreblavy2/esp8266-lamp/main/screenshots/website.jpg)
+![Website](https://raw.githubusercontent.com/pierreblavy2/esp8266-lamp/main/screenshots/website.png)
 
 # The project contains 
 - the PCB design (kicad and gerber) CC-BY-SA 3.0
