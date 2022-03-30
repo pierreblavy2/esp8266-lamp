@@ -1,16 +1,16 @@
 The 3D files (folder 3D) 
   License     : CC-BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0/
-  Attribution : Pierre BLAVY
+  Attribution : 2022 Pierre BLAVY
   
   
 - The PCB (folders gerber and kicad)
   License     : CC-BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0/
-  Attribution : Pierre BLAVY
+  Attribution : 2022 Pierre BLAVY
 
 
 - The code (folder arduino, all files except ArduinoJson.h)
   License :  GPL-3.0 https://www.gnu.org/licenses/gpl-3.0.txt
-  Attribution : Pierre BLAVY
+  Attribution : 2022 Pierre BLAVY
  
   
 - The ArduinoJson.h file
