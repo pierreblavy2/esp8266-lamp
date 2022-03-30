@@ -5,7 +5,7 @@ The default access point ssid is <code>lamp</code>, the password is <code>magicw
 # The project contains 
 - the PCB design (kicad and gerber) CC-BY-SA 3.0
 - the 3D printer files (3d) CC-BY-SA 3.0
-- the arduino code (arduino) GPL-3.0 and MIT
+- the arduino code (arduino) Some file MIT, some GPL-3.0, see details in Licenses.txt
 - For details about licences, see Licenses.txt
 
 # Images
