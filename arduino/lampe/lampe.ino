@@ -32,10 +32,6 @@
 #define SW2 D1mini_D1
 #define SW3 D1mini_D2
 
-#include "secret/wifi_login.hpp"
-  //#define WIFI_SSID "xxxx"
-  //#define WIFI_PASS "yyyy"
-
 //--- data ---
 Lamp lamp;
 Wifi wifi;
