@@ -57,7 +57,7 @@ struct Wifi:Wifi_persistant{
 
     const char * get_pass()   const{return pass;}
     const char * get_ssid()   const{return ssid;}
-    const char * get_my_ssid()const{if(my_ssid==""){return "lamp";}else{return my_ssid;} }
+    const char * get_my_ssid()const{if( strcmp(my_ssid,"")==0 ){return "lamp";}else{return my_ssid;} }
 
     bool save(const char * path="/wifi")const{
       Serial.println("save_wifi");
