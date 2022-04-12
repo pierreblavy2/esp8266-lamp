@@ -1,0 +1,14 @@
+lampe-B_Cu.gbr
+lampe-B_Mask.gbr
+lampe-B_Paste.gbr
+lampe-B_SilkS.gbr
+lampe-Edge_Cuts.gbr
+lampe-F_Cu.gbr
+lampe-F_Mask.gbr
+lampe-F_Paste.gbr
+lampe-F_SilkS.gbr
+
+lampe-job.gbrjob
+
+lampe-NPTH.drl
+lampe-PTH.drl

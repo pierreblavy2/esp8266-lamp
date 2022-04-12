@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "pierre")(type "KiCad")(uri "/home/pierre/Desktop/lampe/kicad/pierre.pretty")(options "")(descr ""))
+)
